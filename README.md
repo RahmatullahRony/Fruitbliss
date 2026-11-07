@@ -1,10 +1,6 @@
-
-# Hi, I'm Mobinul Ahasan Tanjid! 👋 
-
-I’m pursuing my B.Sc. in Computer Science and Engineering (Software Engineering) at East West University. My skills include C, C#, JavaScript, Java, Angular, SQL Server, and Android (Java), with additional experience in software testing and bug tracking tools like JIRA and Bugzilla. I’ve published research papers (TraceChainBD and AuthiFi) in IEEE, received the Medha Lalon Scholarship in 2023, and I’m passionate about full-stack development, Clean Architecture, and learning advanced Angular with enterprise-level systems.  
 # 🍎 Fruit Bliss
 
-Fruit Bliss is an online e-commerce website for 100% organic fruits, developed by Md. Rahmatullah Rony and Mohammad Shakil. The platform allows users to browse a wide range of fresh fruits, view detailed product information, sign up or log in to their accounts, add products to the cart, and place secure orders. It also includes a smooth checkout process with order confirmation, a contact form for support, and a user-friendly interface to enhance the shopping experience.
+Fruit Bliss is an online e-commerce website for 100% organic fruits, developed by Md. Rahmatullah Rony and Mohammad Shakil & Mobinul Ahasan Tanjid. The platform allows users to browse a wide range of fresh fruits, view detailed product information, sign up or log in to their accounts, add products to the cart, and place secure orders. It also includes a smooth checkout process with order confirmation, a contact form for support, and a user-friendly interface to enhance the shopping experience.
 
 ## Features
 
@@ -66,7 +62,7 @@ Fruit Bliss is an online e-commerce website for 100% organic fruits, developed b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TanXid/Fruitbliss
+   git clone https://github.com/RahmatullahRony/Fruitbliss
 
 2. Move the project folder into your XAMPP htdocs directory:
         
