@@ -1,6 +1,6 @@
 # 🍎 Fruit Bliss
 
-Fruit Bliss is an online e-commerce website for 100% organic fruits, developed by Md. Rahmatullah Rony and Mohammad Shakil & Mobinul Ahasan Tanjid. The platform allows users to browse a wide range of fresh fruits, view detailed product information, sign up or log in to their accounts, add products to the cart, and place secure orders. It also includes a smooth checkout process with order confirmation, a contact form for support, and a user-friendly interface to enhance the shopping experience.
+Fruit Bliss is an online e-commerce website for 100% organic fruits, developed by Md. Rahmatullah Rony, Mohammad Shakil & Mobinul Ahasan Tanjid. The platform allows users to browse a wide range of fresh fruits, view detailed product information, sign up or log in to their accounts, add products to the cart, and place secure orders. It also includes a smooth checkout process with order confirmation, a contact form for support, and a user-friendly interface to enhance the shopping experience.
 
 ## Features
 
